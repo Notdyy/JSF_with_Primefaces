@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Build-Jdk-Spec: 17
+Specification-Title: jsf-primefaces Maven Webapp
+Specification-Version: 0.0
+Implementation-Title: jsf-primefaces Maven Webapp
+Implementation-Version: 0.0.1-SNAPSHOT
+Created-By: Maven Integration for Eclipse
+
